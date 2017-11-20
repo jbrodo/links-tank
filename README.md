@@ -1,5 +1,5 @@
 # R-blog-link
-I decided to write this list of useful links about [R](https://www.r-project.org/), since I have reached "the point of no return" of opened tabs in Google Chrome and I cannot by a new monitor.
+I decided to write this list of useful links about [R](https://www.r-project.org/), since I have reached "the point of no return" of opened tabs in Google Chrome and I cannot buy a new monitor.
 
 # R Caret Library
   - [Cran Caret Page](https://cran.r-project.org/web/packages/caret/)
