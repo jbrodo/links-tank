@@ -5,7 +5,7 @@ I decided to write this list of useful links about [R](https://www.r-project.org
 
   + [Awesome Software Engineer Topics (voxsim)](https://github.com/voxsim/awesome-software-engineer-topics)
   
-  + [Free Programmi Books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
+  + [Free Programmig Books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
 
   + [Link Tank about R](r-link.md)
 
