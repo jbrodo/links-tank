@@ -6,6 +6,6 @@ I decided to create a my personal tank of useful links, since I have reached "th
 
 # Programming Languages Related Links Tank
   + [Free Programmig Books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
-  + [Links Tank about R](r-link.md)
-  + [Links Tank about LateX](latex-link.md)
-  + [Links Tank about Git](git-link.md)
+  + [Links Tank about R](r-links.md)
+  + [Links Tank about LateX](latex-links.md)
+  + [Links Tank about Git](git-links.md)
