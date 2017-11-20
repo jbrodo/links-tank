@@ -10,7 +10,7 @@ I decided to write this list of useful links about [R](https://www.r-project.org
   - [Create a confusion matrix](https://jangorecki.gitlab.io/data.table/library/caret/html/confusionMatrix.html)
   - [Cross Tabulation and Table Creation](https://stat.ethz.ch/R-manual/R-devel/library/base/html/table.html)
   - [SUPPORT VECTOR MACHINE CLASSIFIER IMPLEMENTATION IN R WITH CARET PACKAGE](http://dataaspirant.com/2017/01/19/support-vector-machine-classifier-implementation-r-caret-package/)
-  - [Support Vector Machines](tp://topepo.github.io/caret/train-models-by-tag.html#support-vector-machines)
+  - [Support Vector Machines](http://topepo.github.io/caret/train-models-by-tag.html#support-vector-machines)
   - [Models Clustered by Tag Similarity](https://topepo.github.io/caret/models-clustered-by-tag-similarity.html)
 
 # R Courses
@@ -20,7 +20,6 @@ I decided to write this list of useful links about [R](https://www.r-project.org
   - [A Practical Guide to Support Vector Classification](https://www.csie.ntu.edu.tw/~cjlin/papers/guide/guide.pdf)
   - [SVM caret training set confusion matrix](https://www.biostars.org/p/179165/)
   - [15 Easy Solutions To Your Data Frame Problems In R](https://www.datacamp.com/community/tutorials/15-easy-solutions-data-frame-problems-r)
-  - 
   
 # [R Bloggers](https://www.r-bloggers.com/)
   - [The 5th Tribe, Support Vector Machines and caret](https://www.r-bloggers.com/the-5th-tribe-support-vector-machines-and-caret/)
@@ -35,7 +34,7 @@ I decided to write this list of useful links about [R](https://www.r-project.org
 # Wiki-books about Data Mining with R
   - [Data Mining Algorithms In R](https://en.wikibooks.org/wiki/Category:Book:Data_Mining_Algorithms_In_R)
   
-#Cookbook-r
+# [Cookbook-r](http://www.cookbook-r.com)
   - [Reordering the columns in a data frame](http://www.cookbook-r.com/Manipulating_data/Reordering_the_columns_in_a_data_frame/)
   
 # Stackoverflow answer (easy to forget)
