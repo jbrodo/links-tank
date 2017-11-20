@@ -12,10 +12,12 @@ I decided to write this list of useful links about [R](https://www.r-project.org
   - [Introduction to R: Data input and output (pdf)](http://www.cbs.dtu.dk/r-intro/R_data.pdf)
   - [A Practical Guide to Support Vector Classification](https://www.csie.ntu.edu.tw/~cjlin/papers/guide/guide.pdf)
   - [SVM caret training set confusion matrix](https://www.biostars.org/p/179165/)
+  - [15 Easy Solutions To Your Data Frame Problems In R](https://www.datacamp.com/community/tutorials/15-easy-solutions-data-frame-problems-r)
   
 # [R Bloggers](https://www.r-bloggers.com/)
   - [The 5th Tribe, Support Vector Machines and caret](https://www.r-bloggers.com/the-5th-tribe-support-vector-machines-and-caret/)
   - [Translating Weird R Errors](https://www.r-bloggers.com/translating-weird-r-errors/)
+  - [Formal ways to compare forecasting models: Rolling windows](https://www.r-bloggers.com/formal-ways-to-compare-forecasting-models-rolling-windows/)
 
 # [R pubs](https://rpubs.com/)
   - [Comparing R caret models in action … and in practice: does model accuracy always matter more than scalability? and how much this is about models instead of implementations?](https://rpubs.com/Isaac/caret_reg)
@@ -35,6 +37,10 @@ I decided to write this list of useful links about [R](https://www.r-project.org
   - [How to remove all whitespace from a string?](https://stackoverflow.com/questions/5992082/how-to-remove-all-whitespace-from-a-string)
   - [How to combine multiple conditions to subset a data-frame using “OR”?](https://stackoverflow.com/questions/4935479/how-to-combine-multiple-conditions-to-subset-a-data-frame-using-or)
   - [Calculating the means of many factor columns in a data frame](https://stackoverflow.com/questions/35171338/calculating-the-means-of-many-factor-columns-in-a-data-frame)
+  - [Update data frame via function doesn't work](https://stackoverflow.com/questions/3969852/update-data-frame-via-function-doesnt-work)
+  - [Read multiple CSV files into separate data frames](https://stackoverflow.com/questions/5319839/read-multiple-csv-files-into-separate-data-frames)
+  - [Conditional replacement of values in a data.frame](https://stackoverflow.com/questions/8214303/conditional-replacement-of-values-in-a-data-frame)
+  - [R: t-test over all columns](https://stackoverflow.com/questions/9661469/r-t-test-over-all-columns)
  
  # R Cran Vignette
    - [Regular expressions](https://cran.r-project.org/web/packages/stringr/vignettes/regular-expressions.html)
