@@ -1,5 +1,7 @@
 # R-blog-link
-I decided to write this list of useful links about [R](https://www.r-project.org/), since I have reached "the point of no return" of opened tabs in Google Chrome and I cannot buy a new monitor.
+I decided to write this list of useful links about [R](https://www.r-project.org/), since I have reached "the point of no return" of opened tabs in Google Chrome and I cannot buy a new monitor. 
+
+  - On Windows, I strongly suggest to use [Microsoft R Open (Microsoft R Application Network)](https://mran.microsoft.com/open) version since it use the Intel Math Kernel Library (Intel MKL) in order to get better multithreaded performance with base R functions.
 
 # R Caret Library
   - [Cran Caret Page](https://cran.r-project.org/web/packages/caret/)
