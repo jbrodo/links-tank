@@ -3,7 +3,7 @@ I decided to write this list of useful links about [R](https://www.r-project.org
 
   - On Windows, I strongly suggest to use [Microsoft R Open (Microsoft R Application Network)](https://mran.microsoft.com/open) version since it use the Intel Math Kernel Library (Intel MKL) in order to get better multithreaded performance with base R functions.
 
-# R Caret Library
+# [R Caret Library](http://topepo.github.io/caret/index.html)
   - [Cran Caret Page](https://cran.r-project.org/web/packages/caret/)
   - [Vignette of Caret (useful for installation)](https://cran.r-project.org/web/packages/caret/vignettes/caret.pdf)
   - [Documentation of Caret](http://topepo.github.io/caret/index.html). Through the documentation, it is possible search and retrieve 238 model of Machine Learning
