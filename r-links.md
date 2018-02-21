@@ -72,6 +72,7 @@ I decided to write this list of useful links about [R](https://www.r-project.org
    - [Formulario di Statistica con R](https://cran.r-project.org/doc/contrib/Frascati-FormularioStatisticaR.pdf)
    - [PowerPoint presentations generation](https://cran.r-project.org/web/packages/officer/vignettes/powerpoint.html)
    - [PLS Package](https://cran.r-project.org/web/packages/pls/vignettes/pls-manual.pdf)
+   - [An Introduction to corrplot Package - Corrplot](https://cran.r-project.org/web/packages/corrplot/vignettes/corrplot-intro.html)
  
  # R blog
   - [R: Working with named objects in a loop](https://codedocean.wordpress.com/2014/01/14/r-working-with-named-objects-in-a-loop/)
