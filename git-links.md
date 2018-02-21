@@ -21,3 +21,4 @@
   - [Project import/export](https://docs.gitlab.com/ce/user/project/settings/import_export.html)
   - SVN
     - [SVN to GitLab](https://docs.gitlab.com/ce/user/project/import/svn.html)
+    - [SVN Migration](https://gitlab.com/help/user/project/import/svn)
