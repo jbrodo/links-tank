@@ -9,6 +9,7 @@ I decided to create a my personal tank of useful links, since I have reached "th
   + [Links Tank about R](r-links.md)
   + [Links Tank about LateX](latex-links.md)
   + [Links Tank about Git](git-links.md)
+  + [Links Tank about using Cuda with Python](GPU-python.MD)
   + [Baby steps with libclang](http://bastian.rieck.ru/blog/posts/2015/baby_steps_libclang_ast/): Walking an abstract syntax tree
   + [Bash Shell: Replace a String With Another String In All Files Using sed and Perl -pie Options](https://www.cyberciti.biz/faq/unix-linux-replace-string-words-in-many-files/)
 
