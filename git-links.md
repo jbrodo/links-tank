@@ -14,3 +14,10 @@
 # Tutorial
   - [Uploading many files to GitHub repository](https://sekika.github.io/2016/06/06/github-many-files/)
   - [How to migrate from BitBucket to GitHub](https://github.com/aiidateam/aiida_core/wiki/How-to-migrate-from-BitBucket-to-GitHub)
+
+# Migrate from GitLab (Local) to GitLab (Global)
+  - [Import bare repositories into your GitLab instance](https://docs.gitlab.com/ce/raketasks/import.html)
+  - [GitLab Migrator](https://gitlab.com/iv-mexx/gitlab-migrator)
+  - [Project import/export](https://docs.gitlab.com/ce/user/project/settings/import_export.html)
+  - SVN
+    - [SVN to GitLab](https://docs.gitlab.com/ce/user/project/import/svn.html)
